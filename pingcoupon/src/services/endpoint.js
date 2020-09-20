@@ -1,0 +1,1 @@
+export const baseUrl = "http://pingcoupon.ap-northeast-2.elasticbeanstalk.com";
